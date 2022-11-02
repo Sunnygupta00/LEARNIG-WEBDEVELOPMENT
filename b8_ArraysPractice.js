@@ -45,4 +45,3 @@ console.log(characters.sort((a, b) => {
 }))
 // using cp techiques XD
 //console.log(characters.sort((a, b) => (a.mass > b.mass) ? -1 : a.mass < b.mass ? 1 : 0))
-
